@@ -3,7 +3,7 @@
 
 # Specialization - 4 course series
 
-## 1. Guided Tour of Machine Learning in Finance
-## 2. Fundamentals of Machine Learning in Finance
-## 3. Reinforcement Learning in Finance
-## 4. Overview of Advanced Methods of Reinforcement Learning in Finance
+1. Guided Tour of Machine Learning in Finance 
+2. Fundamentals of Machine Learning in Finance
+3. Reinforcement Learning in Finance
+4. Overview of Advanced Methods of Reinforcement Learning in Finance
